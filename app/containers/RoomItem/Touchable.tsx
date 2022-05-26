@@ -217,7 +217,7 @@ class Touchable extends React.Component<ITouchableProps, any> {
 			<LongPressGestureHandler onHandlerStateChange={this.onLongPressHandlerStateChange}>
 				<Animated.View>
 					<PanGestureHandler
-						minDeltaX={20}
+						activeOffsetX={[-20, 20]}
 						onGestureEvent={this._onGestureEvent}
 						onHandlerStateChange={this._onHandlerStateChange}
 						enabled={swipeEnabled}>

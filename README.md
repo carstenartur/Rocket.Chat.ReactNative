@@ -4,6 +4,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb15e2392a71473ea59d3f634f35c54e)](https://www.codacy.com/app/RocketChat/Rocket.Chat.ReactNative?utm_source=github.com&utm_medium=referral&utm_content=RocketChat/Rocket.Chat.ReactNative&utm_campaign=badger)
 [![codecov](https://codecov.io/gh/RocketChat/Rocket.Chat.ReactNative/branch/master/graph/badge.svg)](https://codecov.io/gh/RocketChat/Rocket.Chat.ReactNative)
 [![CodeFactor](https://www.codefactor.io/repository/github/rocketchat/rocket.chat.reactnative/badge)](https://www.codefactor.io/repository/github/rocketchat/rocket.chat.reactnative)
+[![CodeQL](https://github.com/carstenartur/Rocket.Chat.ReactNative/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/carstenartur/Rocket.Chat.ReactNative/actions/workflows/codeql-analysis.yml)
 
 - **Supported server versions:** 0.70.0+
 - **Supported iOS versions**: 11+

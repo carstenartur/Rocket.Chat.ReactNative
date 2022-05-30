@@ -14959,10 +14959,10 @@ react-native-notifications@^4.3.1:
   resolved "https://registry.yarnpkg.com/react-native-notifications/-/react-native-notifications-4.3.1.tgz#ad9a8e6881bc17cf03ef16d4dfdaee9ec8bb721d"
   integrity sha512-A668d+Q0/VQRjmrh+LvDpc/REA8GXgwCijXDCIlDHGMK8enmrtdxY5OANQf1VM3hecf+fD0wYFw2uqL/ZR8jgg==
 
-react-native-notifier@1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/react-native-notifier/-/react-native-notifier-1.6.1.tgz#eec07bdebed6c22cd22f5167555b7762e4119552"
-  integrity sha512-uq58vefWCmgk9B/GU0Z9P6M8Su5IuRBtKmroSX7luISEdh3r8QvJo/G6jgK2sO0QhM5QvJOGWBDm1JGEkYL4IQ==
+react-native-notifier@1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/react-native-notifier/-/react-native-notifier-1.8.0.tgz#0604d99af17268534cf15b2d95931bf5bb151b29"
+  integrity sha512-KF/WZ4P1alVx2gGHaTWTaqLQYC7k1BoK066pzfKWV3WMPKlmsFp5gm5JkungHzmYhSK8zhE3Qy80hAblTz/ejQ==
 
 react-native-orientation-locker@1.2.0:
   version "1.2.0"

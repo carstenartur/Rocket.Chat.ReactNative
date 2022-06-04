@@ -28,7 +28,7 @@
 		]
 	},
 	"dependencies": {
-		"@bugsnag/react-native": "^7.10.5",
+		"@bugsnag/react-native": "^7.16.7",
 		"@codler/react-native-keyboard-aware-scroll-view": "^1.0.1",
 		"@gorhom/bottom-sheet": "^4",
 		"@nozbe/watermelondb": "0.23.0",
@@ -95,7 +95,7 @@
 		"react-native-image-progress": "^1.2.0",
 		"react-native-jitsi-meet": "RocketChat/react-native-jitsi-meet",
 		"react-native-keycommands": "2.0.3",
-		"react-native-localize": "2.1.1",
+		"react-native-localize": "2.2.2",
 		"react-native-mime-types": "2.3.0",
 		"react-native-mmkv-storage": "0.6.12",
 		"react-native-modal": "11.10.0",

@@ -13891,7 +13891,8 @@ react-native-scrollable-tab-view@^1.0.0:
 
 react-native-simple-crypto@RocketChat/react-native-simple-crypto#0.5.0:
   version "0.5.0"
-  resolved "https://codeload.github.com/RocketChat/react-native-simple-crypto/tar.gz/e4914cb4f5a2227a88e862a8f6029a2c5dd9fdc6"
+  uid cf2873c1835c02e2be99ba9e257391ecac0c58dd
+  resolved "https://codeload.github.com/RocketChat/react-native-simple-crypto/tar.gz/cf2873c1835c02e2be99ba9e257391ecac0c58dd"
   dependencies:
     base64-js "^1.3.0"
     hex-lite "^1.5.0"

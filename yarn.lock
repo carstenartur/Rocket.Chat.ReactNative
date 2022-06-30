@@ -1687,20 +1687,20 @@
   resolved "https://registry.yarnpkg.com/@bugsnag/plugin-react-native-session/-/plugin-react-native-session-7.17.0.tgz#701a93e0533463511faf42621ac3c4e97b3cfa6b"
   integrity sha512-neST+Irym4l8OnQph+z5JW/7avXEYaqkIiMRHT/XYYlFFhQ1M2id33/OcExnlTefuVozAlA6Hp1MidC57+CyPw==
 
-"@bugsnag/plugin-react-native-unhandled-rejection@^7.17.0":
-  version "7.17.0"
-  resolved "https://registry.yarnpkg.com/@bugsnag/plugin-react-native-unhandled-rejection/-/plugin-react-native-unhandled-rejection-7.17.0.tgz#428b41e85c5653318c35f6805f46f3a43133d520"
-  integrity sha512-9aoYLmb+fO8l2HiHi9280H4CrqKnxORB7fi/s6ViNvKPytw5zbso6RMQZwNOdbhmMxn/qc9Vib1SqMTJwHfm/Q==
+"@bugsnag/plugin-react-native-unhandled-rejection@^7.17.1":
+  version "7.17.1"
+  resolved "https://registry.yarnpkg.com/@bugsnag/plugin-react-native-unhandled-rejection/-/plugin-react-native-unhandled-rejection-7.17.1.tgz#79a8d36771062f374423595dfe2d17b46a370dbf"
+  integrity sha512-gHdZLChnpfYYqYpiPHSGLcljD+yfveCZ6C8VNqOZSX/6nlrFXOah2msr0Wnjz0anIvhnpG9q+0tOJBDuj4u6GA==
 
 "@bugsnag/plugin-react@^7.17.0":
   version "7.17.0"
   resolved "https://registry.yarnpkg.com/@bugsnag/plugin-react/-/plugin-react-7.17.0.tgz#aec2c02359096cc86379b4b05e118d25f5ebcd90"
   integrity sha512-SwQPIaScYtVdwF9wz8gsTg6Fnti4glJ7ECuwIgBlF5LtI5h9VHB+zhJ843Ap7g6EoR916Iry6w8E26iIihRaqw==
 
-"@bugsnag/react-native@^7.17.0":
-  version "7.17.0"
-  resolved "https://registry.yarnpkg.com/@bugsnag/react-native/-/react-native-7.17.0.tgz#5ec9986a255ada27607b2555b8cdea44e2f41c92"
-  integrity sha512-Qq1XicLzKPFFTjpx6pRvNi/pgERJrVl24wQ5EF/7JzT0E/cByIIU0NavmgRqh6bX+cQOzlomhI4RvcQk44Tj+Q==
+"@bugsnag/react-native@^7.17.2":
+  version "7.17.2"
+  resolved "https://registry.yarnpkg.com/@bugsnag/react-native/-/react-native-7.17.2.tgz#76c8388843a7b2e1e307a2ce27db2b14e916c061"
+  integrity sha512-ETl/IbCitqXgD08UkGWrk3yEHMSuWFUjKMSoEYUul1lujt8HW1YcXE7t0zVl2+iKgAzZKeevm7u4mdJbwNTVuw==
   dependencies:
     "@bugsnag/core" "^7.17.0"
     "@bugsnag/delivery-react-native" "^7.17.0"
@@ -1712,7 +1712,7 @@
     "@bugsnag/plugin-react-native-global-error-handler" "^7.17.0"
     "@bugsnag/plugin-react-native-hermes" "^7.17.0"
     "@bugsnag/plugin-react-native-session" "^7.17.0"
-    "@bugsnag/plugin-react-native-unhandled-rejection" "^7.17.0"
+    "@bugsnag/plugin-react-native-unhandled-rejection" "^7.17.1"
     iserror "^0.0.2"
 
 "@bugsnag/safe-json-stringify@^6.0.0":

@@ -3017,24 +3017,24 @@
   dependencies:
     invariant "^2.2.4"
 
-"@react-native-firebase/analytics@^15.0.0":
-  version "15.0.0"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/analytics/-/analytics-15.0.0.tgz#74d84a9e3672d10acc41651d2369609902f04373"
-  integrity sha512-0G9dkvKkeQMrEvolHOJuVcFmJsCCSMqcOXi5o7hv7HPmz0rwuwI3lVBxdrgXwMTedP0Ov/+2uaFnjhWrIIwyFg==
+"@react-native-firebase/analytics@^15.1.1":
+  version "15.1.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/analytics/-/analytics-15.1.1.tgz#eab1bdcbc3e5a6443f478d5717cb6b2feec91bd8"
+  integrity sha512-9OikjfOYO2byOIbbISbOC6LbIJCLAyfJKrQBMDmRpx5XdbJS37xLj2KI0aniObYZXrlkdcZ8t2HxrslGYikY8A==
 
-"@react-native-firebase/app@^15.0.0":
-  version "15.0.0"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-15.0.0.tgz#1d47cbc57641a27dbc7abbd0590a2ee6edcc70b7"
-  integrity sha512-H4u50FaveRmKuzmKsbFUaq+9jFJrIcn2/auw441h24A0fcxAhKzlYQ6DK9IvoqCX/PKX1DZYrDo6UC/d4YjCGw==
+"@react-native-firebase/app@^15.1.1":
+  version "15.1.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-15.1.1.tgz#76100645b3228eed3c0d76521531fdc0e2b20f04"
+  integrity sha512-yLC+BZtXjHLzdwLyt5/ryrUcJhYK+F1mb3GAPUOB5yujM8Ndd0O2HXNoVvLPkhEjEdyvyxfRrvqcT21BKmuw3A==
   dependencies:
     "@expo/config-plugins" "^4.1.5"
     opencollective-postinstall "^2.0.1"
     superstruct "^0.6.2"
 
-"@react-native-firebase/crashlytics@^15.0.0":
-  version "15.0.0"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/crashlytics/-/crashlytics-15.0.0.tgz#ee25188e878f52cc3bc8ed76494cef11656b2bd4"
-  integrity sha512-kpo+iEC5GqY60cSKmuMGIpQILYvQP2y4IlMb8498R+4tbEKYKCC9HxvqWBtbzPAdvxYA5XOQRo4UjzGfrakKXQ==
+"@react-native-firebase/crashlytics@^15.1.1":
+  version "15.1.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/crashlytics/-/crashlytics-15.1.1.tgz#c483950b39b98e09efcc113c65f471a955e2aa3a"
+  integrity sha512-iH5wVUDZ5Tfm2Z3xVFK0VSlqUJtSCVmN88EFE6NLLzNngpOmvpdE+KI+CjDCwePOK8or4acXLW8MLWqncxAAYA==
   dependencies:
     "@expo/config-plugins" "^4.1.5"
     stacktrace-js "^2.0.0"

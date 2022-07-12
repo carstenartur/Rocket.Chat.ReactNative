@@ -58,7 +58,7 @@
 		"color2k": "2.0.0",
 		"commonmark": "git+https://github.com/RocketChat/commonmark.js.git",
 		"commonmark-react-renderer": "git+https://github.com/RocketChat/commonmark-react-renderer.git",
-		"dequal": "^2.0.2",
+		"dequal": "^2.0.3",
 		"ejson": "2.2.2",
 		"expo-apple-authentication": "4.0.3",
 		"expo-av": "10.1.3",

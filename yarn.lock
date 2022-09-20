@@ -4289,10 +4289,10 @@
     "@types/react" "*"
     "@types/react-native" "*"
 
-"@types/react-native@*", "@types/react-native@0.69.1":
-  version "0.69.1"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.69.1.tgz#580ee9ab6557c8f5ad76bf5ab915689ca0faecfe"
-  integrity sha512-Vy8yvbR2bdUXTZ3u4DBFUGxo26h7p71Cdv7JtO6ZEXD4mpediuRMbRqyoWirlQB/p9Vh3lYVVViNyt8JK/05NA==
+"@types/react-native@*", "@types/react-native@0.70.2":
+  version "0.70.2"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.70.2.tgz#ff4d19be4092154e5994edf3c3d5b14b24339fe3"
+  integrity sha512-WkeKpC+8FkQExsnUfdDzdArNaVWNIW+ncR3yqCb94WC/Xo7b5J+0rVUY7SoZfUXfPMvO/qoVGZvAyWbM0bU1Bw==
   dependencies:
     "@types/react" "*"
 

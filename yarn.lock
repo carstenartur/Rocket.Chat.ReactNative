@@ -2973,10 +2973,10 @@
     sudo-prompt "^9.0.0"
     wcwidth "^1.0.1"
 
-"@react-native-community/datetimepicker@6.1.3":
-  version "6.1.3"
-  resolved "https://registry.yarnpkg.com/@react-native-community/datetimepicker/-/datetimepicker-6.1.3.tgz#f0645c335dca25894b99d857ed354616d4c4e600"
-  integrity sha512-3e20BPQy8QiQeIGJL4zoJaRsGWB31hl9i7oTZECWxnK6nVUeqGt/G+JRJlJinmqL6z4WePHC6RSUMgpC64OOwg==
+"@react-native-community/datetimepicker@6.5.0":
+  version "6.5.0"
+  resolved "https://registry.yarnpkg.com/@react-native-community/datetimepicker/-/datetimepicker-6.5.0.tgz#ecbcb0f995f57570ae5fa11ed66d23fcc67c2a3c"
+  integrity sha512-s0gxsz/l3Ln2+dZV+4RZI94+A+JO8ywrjC17cGK8ozM+VLXHAUARgGLGc+vqNJkxzZzGUqnkO6/kypQGoK7t/A==
   dependencies:
     invariant "^2.2.4"
 

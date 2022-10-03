@@ -2990,10 +2990,10 @@
   resolved "https://registry.yarnpkg.com/@react-native-community/masked-view/-/masked-view-0.1.11.tgz#2f4c6e10bee0786abff4604e39a37ded6f3980ce"
   integrity sha512-rQfMIGSR/1r/SyN87+VD8xHHzDYeHaJq6elOSCAD+0iLagXkSI2pfA0LmSXP21uw5i3em7GkkRjfJ8wpqWXZNw==
 
-"@react-native-community/netinfo@9.1.0":
-  version "9.1.0"
-  resolved "https://registry.yarnpkg.com/@react-native-community/netinfo/-/netinfo-9.1.0.tgz#1de794ef6430c63827235ccebcbadfd84a1efe4f"
-  integrity sha512-+CRWAcOpuqNia8g/DbS/Gh6/jZuDKUnaFG3hM8DZTqSgBAZ1Efewm0/KMHq0m/P5ZF6r3+1a9To5bW7jV1JO2Q==
+"@react-native-community/netinfo@9.3.3":
+  version "9.3.3"
+  resolved "https://registry.yarnpkg.com/@react-native-community/netinfo/-/netinfo-9.3.3.tgz#ee6a36f7f084d84e90342743026717e7ddad6a90"
+  integrity sha512-/nlrGqItwRnqjis7yWhUq6lpxS8Sm1DMNsjNfABih9wGnh58Tu28z3Box/ifFnu0kD2Fdp0UZXe74QwoZDKA4A==
 
 "@react-native-community/picker@^1.8.1":
   version "1.8.1"

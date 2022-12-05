@@ -3158,10 +3158,10 @@
   dependencies:
     eslint-plugin-import "^2.17.2"
 
-"@rocket.chat/message-parser@0.31.13":
-  version "0.31.13"
-  resolved "https://registry.yarnpkg.com/@rocket.chat/message-parser/-/message-parser-0.31.13.tgz#2d346f65c8ffb21f2eeb8293c355908287305e26"
-  integrity sha512-kWcE1om7R4hpl2FPpxEIhABdO0WwXlmlb8sYqh0O6nnGcPXbZSDnYgk0rQRT9exrjxf+VmndwTKW4jRVzLl7Hw==
+"@rocket.chat/message-parser@0.31.22":
+  version "0.31.22"
+  resolved "https://registry.yarnpkg.com/@rocket.chat/message-parser/-/message-parser-0.31.22.tgz#fcb523e17c9b336e0d654a19af800bc405b66872"
+  integrity sha512-9cLiihz+zim0ZGpzvNFXMlFzl5R8Eq8j6b47zaF4DACX7KVFGI0vts1SJ9HNTIZ0EWezznP948IGq5t3uy/1Lg==
 
 "@rocket.chat/react-native-fast-image@^8.2.0":
   version "8.2.0"

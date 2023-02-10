@@ -17463,11 +17463,13 @@ react-native-screens@3.13.1:
     warn-once "^0.1.0"
 
 react-native-scrollable-tab-view@ptomasroos/react-native-scrollable-tab-view:
-  version "1.0.0"
-  resolved "https://codeload.github.com/ptomasroos/react-native-scrollable-tab-view/tar.gz/a7f46de184123be9703c57b0a7618ae0557c8a87"
+  version "1.1.0"
+  uid "583a66f7fd3eb2cac1a05c71d7167d78a8ad9de6"
+  resolved "https://codeload.github.com/ptomasroos/react-native-scrollable-tab-view/tar.gz/583a66f7fd3eb2cac1a05c71d7167d78a8ad9de6"
   dependencies:
     "@react-native-community/viewpager" "3.3.0"
     create-react-class "^15.6.2"
+    deprecated-react-native-prop-types "^2.3.0"
     prop-types "^15.6.0"
     react-timer-mixin "^0.13.3"
 
